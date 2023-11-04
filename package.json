@@ -1,0 +1,21 @@
+{
+  "name": "@muhammadumer495/todolist03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {"todolist03":"index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
